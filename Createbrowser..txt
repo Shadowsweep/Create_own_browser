@@ -4,7 +4,7 @@
 Steps:
 1. Import libraries by going to the ide terminal ( Like: vscode) and type these:
 * pip install pyQt5 
-* pip install os-sys
+* 
 
 
 2. Now import other elements given in the code
