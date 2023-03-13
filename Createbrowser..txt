@@ -1,0 +1,17 @@
+﻿Lets start Our project:
+
+
+Steps:
+1. Import libraries by going to the ide terminal ( Like: vscode) and type these:
+* pip install pyQt5 
+* pip install os-sys
+
+
+2. Now import other elements given in the code
+3. Make a main class main window in which we are going to code
+4. First add extension of any url of browser such as google.
+5. Then create a navbar using addtoolbar function
+6. Add back button using triggered
+7. Add forward button again using triggered
+8. Add home button similarly
+9. Add other functions as you want ….
